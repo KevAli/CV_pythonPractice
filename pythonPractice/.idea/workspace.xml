@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b343179-6b30-4a31-b4b4-be8a33ae1054" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_cvTest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_imread.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p159_01.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p159_01.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p159_02.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p159_02.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_01.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_01.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_02.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_02.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_01.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_01.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_02.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_02.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_01_extends.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_01_extends.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_02_mapreduce.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_02_mapreduce.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p163_01_listComprehension.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p163_01_listComprehension.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p164_01_readWrite.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p164_01_readWrite.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p168_01_numpy.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p168_01_numpy.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p175_01_matplotlib.py" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p177_01_zhuzhuang.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p177_01_zhuzhuang.py" />
-    </list>
+    <list default="true" id="2b343179-6b30-4a31-b4b4-be8a33ae1054" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,8 +82,8 @@
       <file leaf-file-name="p205_on_mouse.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="381">
+              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -723,8 +700,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="381">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding />
         </state>
       </provider>
