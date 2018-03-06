@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b343179-6b30-4a31-b4b4-be8a33ae1054" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_cvTest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_imread.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p159_01.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p159_01.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p159_02.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p159_02.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_01.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_01.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_02.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_02.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_01.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_01.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_02.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_02.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_01_extends.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_01_extends.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_02_mapreduce.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_02_mapreduce.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p163_01_listComprehension.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p163_01_listComprehension.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p164_01_readWrite.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p164_01_readWrite.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p168_01_numpy.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p168_01_numpy.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p175_01_matplotlib.py" />
+      <change beforePath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p177_01_zhuzhuang.py" afterPath="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p177_01_zhuzhuang.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +34,26 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonPractice$p159_01.coverage" NAME="p159_01 Coverage Results" MODIFIED="1517384314066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$p205_on_mouse.coverage" NAME="p205_on_mouse Coverage Results" MODIFIED="1520341525403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
     <SUITE FILE_PATH="coverage/pythonPractice$p163_01_listComprehension.coverage" NAME="p163_01_listComprehension Coverage Results" MODIFIED="1517840012607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     <SUITE FILE_PATH="coverage/pythonPractice$p168_01_numpy.coverage" NAME="p168_01_numpy Coverage Results" MODIFIED="1518501030243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     <SUITE FILE_PATH="coverage/pythonPractice$p160_02.coverage" NAME="p160_02 Coverage Results" MODIFIED="1517818415067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     <SUITE FILE_PATH="coverage/pythonPractice$p160_01.coverage" NAME="p160_01 Coverage Results" MODIFIED="1517384594241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$p185_cvTest.coverage" NAME="p185_cvTest Coverage Results" MODIFIED="1518536077120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
     <SUITE FILE_PATH="coverage/pythonPractice$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1517381270414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics" />
     <SUITE FILE_PATH="coverage/pythonPractice$p162_02_mapreduce.coverage" NAME="p162_02_mapreduce Coverage Results" MODIFIED="1517836843166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     <SUITE FILE_PATH="coverage/pythonPractice$p161_01.coverage" NAME="p161_01 Coverage Results" MODIFIED="1517821388382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$p185_imread.coverage" NAME="p185_imread Coverage Results" MODIFIED="1518594362855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
     <SUITE FILE_PATH="coverage/pythonPractice$p175_01_matplotlib.coverage" NAME="p175_01_matplotlib Coverage Results" MODIFIED="1518525857016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     <SUITE FILE_PATH="coverage/pythonPractice$p162_01_extends.coverage" NAME="p162_01_extends Coverage Results" MODIFIED="1517835762076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$p186_sidiao_zhifangtu.coverage" NAME="p186_sidiao_zhifangtu Coverage Results" MODIFIED="1520336979719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
     <SUITE FILE_PATH="coverage/pythonPractice$p164_01_readWrite.coverage" NAME="p164_01_readWrite Coverage Results" MODIFIED="1518500777108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
-    <SUITE FILE_PATH="coverage/pythonPractice$p177_01_zhuzhuang.coverage" NAME="p177_01_zhuzhuang Coverage Results" MODIFIED="1518527723121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$p177_01_zhuzhuang.coverage" NAME="p177_01_zhuzhuang Coverage Results" MODIFIED="1518533904560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     <SUITE FILE_PATH="coverage/pythonPractice$p161_02.coverage" NAME="p161_02 Coverage Results" MODIFIED="1517821598283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$test.coverage" NAME="test Coverage Results" MODIFIED="1518596674376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
     <SUITE FILE_PATH="coverage/pythonPractice$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1517323621714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics" />
     <SUITE FILE_PATH="coverage/pythonPractice$p159_02.coverage" NAME="p159_02 Coverage Results" MODIFIED="1517384317699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+    <SUITE FILE_PATH="coverage/pythonPractice$p186_shuofang_caijian_bubian.coverage" NAME="p186_shuofang_caijian_bubian Coverage Results" MODIFIED="1518595931072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -46,26 +72,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p175_01_matplotlib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py">
+      <file leaf-file-name="p186_shuofang_caijian_bubian.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="76" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p177_01_zhuzhuang.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p177_01_zhuzhuang.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p186_sidiao_zhifangtu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p205_on_mouse.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,6 +145,12 @@
         <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p168_01_numpy.py" />
         <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py" />
         <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p177_01_zhuzhuang.py" />
+        <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_cvTest.py" />
+        <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_imread.py" />
+        <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py" />
+        <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py" />
+        <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py" />
+        <option value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py" />
       </list>
     </option>
   </component>
@@ -113,12 +161,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="64" />
-    <option name="width" value="1281" />
-    <option name="height" value="704" />
+    <option name="x" value="20" />
+    <option name="y" value="147" />
+    <option name="width" value="1279" />
+    <option name="height" value="696" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -134,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +205,13 @@
             </path>
             <path>
               <item name="pythonPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonbasics" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearningandcomputervison" type="462c0819:PsiDirectoryNode" />
+              <item name="chap6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -161,7 +219,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,6 +227,9 @@
     <property name="python.debugger.dataview.coloredbydefault" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
     </key>
@@ -186,116 +246,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p177_01_zhuzhuang">
-    <configuration name="p163_01_listComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.p205_on_mouse">
+    <configuration name="p185_imread" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p163_01_listComprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_imread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p164_01_readWrite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p186_shuofang_caijian_bubian" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p164_01_readWrite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p168_01_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p186_sidiao_zhifangtu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p168_01_numpy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p175_01_matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p205_on_mouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p177_01_zhuzhuang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p177_01_zhuzhuang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.p163_01_listComprehension" />
-      <item index="1" class="java.lang.String" itemvalue="Python.p164_01_readWrite" />
-      <item index="2" class="java.lang.String" itemvalue="Python.p168_01_numpy" />
-      <item index="3" class="java.lang.String" itemvalue="Python.p175_01_matplotlib" />
-      <item index="4" class="java.lang.String" itemvalue="Python.p177_01_zhuzhuang" />
+      <item index="0" class="java.lang.String" itemvalue="Python.p185_imread" />
+      <item index="1" class="java.lang.String" itemvalue="Python.p186_shuofang_caijian_bubian" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.p186_sidiao_zhifangtu" />
+      <item index="4" class="java.lang.String" itemvalue="Python.p205_on_mouse" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.p177_01_zhuzhuang" />
-        <item index="1" class="java.lang.String" itemvalue="Python.p175_01_matplotlib" />
-        <item index="2" class="java.lang.String" itemvalue="Python.p168_01_numpy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.p164_01_readWrite" />
-        <item index="4" class="java.lang.String" itemvalue="Python.p163_01_listComprehension" />
+        <item index="0" class="java.lang.String" itemvalue="Python.p205_on_mouse" />
+        <item index="1" class="java.lang.String" itemvalue="Python.p186_sidiao_zhifangtu" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.p186_shuofang_caijian_bubian" />
+        <item index="4" class="java.lang.String" itemvalue="Python.p185_imread" />
       </list>
     </recent_temporary>
   </component>
@@ -325,28 +385,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="20" y="147" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3548387" sideWeight="0.5059761" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35436893" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35436893" sideWeight="0.5059761" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35376343" sideWeight="0.49402392" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21035856" sideWeight="0.48214287" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16196793" sideWeight="0.48214287" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908365" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3243028" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" x="938" y="199" width="428" height="448" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3243028" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" x="938" y="199" width="428" height="448" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.49107143" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20292082" sideWeight="0.51785713" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39892474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -361,77 +421,132 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_02.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p175_01_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p177_01_zhuzhuang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="63" lean-forward="true" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_cvTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p175_01_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p177_01_zhuzhuang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="40" column="63" lean-forward="true" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_cvTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_01.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_02.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="28" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_01_extends.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_01_extends.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_02_mapreduce.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_02_mapreduce.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p163_01_listComprehension.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p163_01_listComprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p164_01_readWrite.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p164_01_readWrite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p168_01_numpy.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p168_01_numpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p175_01_matplotlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,32 +578,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p159_01.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p159_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p159_02.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p159_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_01.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_01.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -496,63 +610,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p160_02.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p160_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p161_02.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p161_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="28" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_01_extends.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_01_extends.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p162_02_mapreduce.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p162_02_mapreduce.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p163_01_listComprehension.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p163_01_listComprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p164_01_readWrite.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p164_01_readWrite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p168_01_numpy.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p168_01_numpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,27 +666,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="700" column="0" lean-forward="false" selection-start-line="700" selection-start-column="0" selection-end-line="700" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p175_01_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap5/p177_01_zhuzhuang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_cvTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p185_imread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p175_01_matplotlib.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_shuofang_caijian_bubian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/p177_01_zhuzhuang.py">
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p186_sidiao_zhifangtu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonbasics/deeplearningandcomputervison/chap6/p205_on_mouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
